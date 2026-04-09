@@ -15,7 +15,7 @@ Atualmente estudando desenvolvimento backend, APIs e fundamentos de ciberseguran
 - Conquistar minha primeira oportunidade na área de tecnologia
 - Me tornar um desenvolvedor backend sólido
 
-📫 Contato: [seu email ou LinkedIn]
+📫 Contato: [laubniika@gmail.com]
 ## 🛠 Skills
 
 
