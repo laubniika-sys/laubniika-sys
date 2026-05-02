@@ -1,22 +1,26 @@
+# Joel
 
-# Hi, I'm Joel! 🖤💖🖤💖
+Python no dia a dia, trabalhando com dados reais e aprendendo na prática.
 
-💻 Desenvolvedor de software em formação
+Interesse em análise de dados e backend — mais focado em entender como os dados se comportam do que só usar ferramenta.
 
-Focado em construir projetos reais utilizando Python, C e tecnologias web.  
-Atualmente estudando desenvolvimento backend, APIs e fundamentos de cibersegurança.
+Projetos simples, mas com foco em lógica, limpeza de dados e construção de raciocínio.
 
-🚀 O que estou fazendo:
-- Desenvolvendo APIs REST (Flask / FastAPI)
-- Estudando logs Linux e análise de sistemas
-- Evoluindo na resolução de problemas com C
+---
 
-📚 Objetivos:
-- Conquistar minha primeira oportunidade na área de tecnologia
-- Me tornar um desenvolvedor backend sólido
+🛠 Skills
 
-📫 Contato: [laubniika@gmail.com]
-## 🛠 Skills
+- **Python (principal)**: Pandas, manipulação de dados, scripts  
+- **Dados**: análise exploratória, limpeza e visualização  
+- **Outros**: C (fundamentos), Linux, Git  
+
+---
+
+📚 Objetivo
+
+Conseguir minha primeira oportunidade em **dados ou backend**, evoluindo com prática e projetos reais.
+
+📫 Contato: laubniika@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
