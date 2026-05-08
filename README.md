@@ -2,7 +2,7 @@
 
 🚀 Analista de Sistemas em formação | Entusiasta de Open Source
 
-Atualmente estudando ADS na Cruzeiro do Sul e explorando o universo de baixo nível na 42. Apaixonado por resolver problemas através de código e infraestrutura.
+Atualmente estudando ADS na Cruzeiro do Sul e explorando o universo tech. Apaixonado por resolver problemas através de código e infraestrutura.
 
     Tech Stack: Python, C, SQL.
 
