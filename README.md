@@ -1,24 +1,14 @@
 # Joel 💻📊💘
 
-Python no dia a dia, trabalhando com dados reais e aprendendo na prática.
+🚀 Analista de Sistemas em formação | Entusiasta de Open Source
 
-Interesse em análise de dados e backend — mais focado em entender como os dados se comportam do que só usar ferramenta.
+Atualmente estudando ADS na Cruzeiro do Sul e explorando o universo de baixo nível na 42. Apaixonado por resolver problemas através de código e infraestrutura.
 
-Projetos simples, mas com foco em lógica, limpeza de dados e construção de raciocínio.
+    Tech Stack: Python, C, SQL.
 
----
+    Sistemas: Windows & Linux (Power User).
 
-🛠 Skills
-
-- **Python (principal)**: Pandas, manipulação de dados, scripts  
-- **Dados**: análise exploratória, limpeza e visualização  
-- **Outros**: C (fundamentos), Linux, Git  
-
----
-
-📚 Objetivo
-
-Conseguir minha primeira oportunidade em **dados ou backend**, evoluindo com prática e projetos reais.
+    Interesses: Suporte Técnico, Automação e Códigos!
 
 📫 Contato: laubniika@gmail.com
 
