@@ -1,14 +1,30 @@
 # Joel 💻📊💘
 
-🚀 Analista de Sistemas em formação | Entusiasta de Open Source
+# 👋 Olá, eu sou estudante de ADS
 
-Atualmente estudando ADS na Cruzeiro do Sul e explorando o universo tech. Apaixonado por resolver problemas através de código e infraestrutura.
+Foco em infraestrutura, Linux e automação.
 
-    Tech Stack: Python, C, SQL.
+## 💻 Tecnologias
+- C (intermediário)
+- Python (intermediário)
+- Linux
+- SQL (básico/intermediário)
+- Redes (fundamentos)
+- AWS (em aprendizado)
+- Docker (em aprendizado)
+- Git / GitHub
 
-    Sistemas: Windows & Linux (Power User).
+## ☁️ Foco atual
+- Infraestrutura Linux
+- Cloud (AWS: EC2, IAM, VPC)
+- Automação com Python
+- Docker e containers
 
-    Interesses: Suporte Técnico, Automação e Códigos!
+## 🎯 Objetivo
+Entrar na área de Infraestrutura / DevOps / Cloud para atuar com sistemas em produção e automação de ambientes.
+
+## 📂 Projetos
+Veja meus repositórios abaixo 👇
 
 📫 Contato: laubniika@gmail.com
 
