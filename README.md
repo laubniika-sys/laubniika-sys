@@ -2,29 +2,27 @@
 
 # 👋 Olá, eu sou estudante de ADS
 
-Foco em infraestrutura, Linux e automação.
+Estudante de Análise e Desenvolvimento de Sistemas com interesse em Análise de Dados, Python e Bancos de Dados.
 
-## 💻 Tecnologias
-- C (intermediário)
-- Python (intermediário)
-- Linux
-- SQL (básico/intermediário)
-- Redes (fundamentos)
-- AWS (em aprendizado)
-- Docker (em aprendizado)
-- Git / GitHub
+💻 Tecnologias
+Python
+SQL
+Git & GitHub
+Linux
+C
+📚 Atualmente estudando
+Análise de Dados com Python
+SQL
+AWS
+Docker
+Linux
+📂 Projetos
+World Cup Data Analysis (Python + SQL)
+Análises exploratórias de dados
+Scripts de automação em Python
+🎯 Objetivo
 
-## ☁️ Foco atual
-- Infraestrutura Linux
-- Cloud (AWS: EC2, IAM, VPC)
-- Automação com Python
-- Docker e containers
-
-## 🎯 Objetivo
-Entrar na área de Infraestrutura / DevOps / Cloud para atuar com sistemas em produção e automação de ambientes.
-
-## 📂 Projetos
-Veja meus repositórios abaixo 👇
+Busco uma oportunidade de estágio para desenvolver experiência prática em tecnologia, especialmente nas áreas de Dados, Cloud e Infraestrutura.
 
 📫 Contato: laubniika@gmail.com
 
