@@ -2,27 +2,34 @@
 
 # 👋 Olá, eu sou estudante de ADS
 
-Estudante de Análise e Desenvolvimento de Sistemas com interesse em Análise de Dados, Python e Bancos de Dados.
+Estudante de Análise e Desenvolvimento de Sistemas com interesse em Dados, Python e Cloud Computing.
 
-💻 Tecnologias
-Python
-SQL
-Git & GitHub
-Linux
-C
-📚 Atualmente estudando
-Análise de Dados com Python
-SQL
-AWS
-Docker
-Linux
-📂 Projetos
-World Cup Data Analysis (Python + SQL)
-Análises exploratórias de dados
-Scripts de automação em Python
-🎯 Objetivo
+## 💻 Tecnologias
 
-Busco uma oportunidade de estágio para desenvolver experiência prática em tecnologia, especialmente nas áreas de Dados, Cloud e Infraestrutura.
+- Python
+- Pandas
+- Linux
+- Git & GitHub
+- C
+- SQL (estudando)
+
+## 📚 Atualmente estudando
+
+- Python para análise de dados
+- SQL
+- AWS
+- Docker
+- Linux
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de estágio na área de tecnologia para desenvolver experiência prática com programação e análise de dados.
+
+## 📂 Projeto em Destaque
+
+### World Cup Data Analysis
+
+Projeto desenvolvido em Python utilizando Pandas para explorar dados históricos das Copas do Mundo. O projeto realiza limpeza, transformação e análise de dados para responder perguntas sobre gols, público, seleções e partidas.
 
 📫 Contato: laubniika@gmail.com
 
