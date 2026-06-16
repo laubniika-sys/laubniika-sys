@@ -29,7 +29,7 @@ Busco minha primeira oportunidade de estágio na área de tecnologia para desenv
 
 ### World Cup Data Analysis
 
-Projeto desenvolvido em Python utilizando Pandas para explorar dados históricos das Copas do Mundo. O projeto realiza limpeza, transformação e análise de dados para responder perguntas sobre gols, público, seleções e partidas.
+Projeto desenvolvido em Python utilizando Pandas para explorar histórico da Copas do Mundo de 2022. O projeto realiza limpeza, transformação e análise de dados para responder perguntas sobre gols, público, seleções e partidas.
 
 📫 Contato: laubniika@gmail.com
 
