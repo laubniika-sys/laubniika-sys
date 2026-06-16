@@ -116,6 +116,4 @@ My focus is on building a solid, practice-first foundation in **Python, SQL, and
 
 <div align="center">
 
-*"Data tells the story. Cloud delivers it. I'm here to build both."*
-
 </div>
