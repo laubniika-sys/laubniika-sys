@@ -1,8 +1,6 @@
-# Joel 💻📊💘
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Niika+%F0%9F%91%8B;Data+%26+Cloud+Enthusiast;Systems+Analysis+%26+Development+Student;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Joel+%F0%9F%91%8B;Data+%26+Cloud+Enthusiast;Systems+Analysis+%26+Development+Student;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
 
 <br/>
 
@@ -76,19 +74,13 @@ My focus is on building a solid, practice-first foundation in **Python, SQL, and
 <br/>
 
 **📥 Step 1 — Data Collection & Preparation**
-- Imported raw CSV datasets covering all group stage and knockout matches, goals, squads, and attendance
-- Cleaned and standardized data using **Pandas**: handled null values, corrected data types, and renamed columns for clarity
-- Built a clean, reusable dataframe structure ready for analysis
+- Loaded raw CSV datasets and cleaned them with **Pandas** — handling nulls, fixing data types, and standardizing column names
 
 **🔍 Step 2 — Exploratory Data Analysis (EDA)**
-- Investigated key match statistics: goals per game, top-scoring nations, and team performance across stages
-- Used **Jupyter Notebook** as the analytical environment — combining executable code, inline visualizations, and written narrative in a single reproducible document
-- Segmented analysis by phase (Group Stage vs. Knockout) to uncover how performance patterns shifted throughout the tournament
+- Investigated match stats (goals, attendance, team rankings) using **Jupyter Notebook** as a single reproducible environment combining code, visuals, and narrative
 
 **💡 Step 3 — Insights & Conclusions**
-- Surfaced concrete findings on the highest-scoring matches, standout teams, and attendance correlations
-- Structured the notebook as a full data story: raw data → cleaning rationale → analysis → conclusions
-- Prioritized readability and reproducibility so any reviewer can rerun the notebook from start to finish
+- Extracted key findings on top-scoring teams and match patterns, structured as a clear data story from raw input to final conclusions
 
 🔗 **[View Repository on GitHub →](#)** *(Replace `#` with your actual repo link)*
 
@@ -98,13 +90,13 @@ My focus is on building a solid, practice-first foundation in **Python, SQL, and
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=laubniika&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=laubniika-sys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laubniika&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laubniika-sys&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=laubniika&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=laubniika-sys&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -116,7 +108,7 @@ My focus is on building a solid, practice-first foundation in **Python, SQL, and
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laubniika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laubniika)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laubniika-sys)
 
 </div>
 
