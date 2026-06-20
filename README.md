@@ -8,8 +8,7 @@
 
 <br/>
 
-I'm a student driven by the belief that well-structured data and scalable cloud infrastructure can solve real-world problems.
-My focus is on building a solid, practice-first foundation in **Python, SQL, and AWS** — and I'm always looking for opportunities to apply what I learn to meaningful projects.
+Focused on learning Python, SQL, and AWS through hands-on projects. Building a strong foundation in data and cloud technologies.
 
 <br/>
 
