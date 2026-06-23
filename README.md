@@ -59,7 +59,33 @@ Focused on learning Python, SQL, and AWS through hands-on projects. Building a s
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
+
+### ⚽ StatsBomb Shot Mapper — Sports Data Analysis
+
+> *An end-to-end data pipeline extracting, cleaning, and visualizing football match events using the StatsBomb API and spatial coordinate mapping.*
+
+**Stack:** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<br/>
+
+**📥 Step 1 — API Consumption & Extraction**
+- Queried and filtered raw event data directly from the **StatsBomb API**, isolating specific matches from the Bundesliga.
+
+**🔍 Step 2 — Data Treatment & Feature Engineering**
+- Processed complex nested data structures using **Pandas**, extracting and splitting location arrays into structured `x` and `y` spatial coordinates.
+
+**💡 Step 3 — Spatial Visualization**
+- Rendered a digital pitch using `mplsoccer` and mapped shot locations to identify offensive patterns and spatial dominance.
+
+🔗 **[View Repository on GitHub →](https://github.com/laubniika-sys/statsbomb-shot-mapper)** <br/>
+
+---
+
+<br/>
 
 ### 🏆 World Cup 2022 — Data Analysis
 
@@ -81,9 +107,11 @@ Focused on learning Python, SQL, and AWS through hands-on projects. Building a s
 **💡 Step 3 — Insights & Conclusions**
 - Extracted key findings on top-scoring teams and match patterns, structured as a clear data story from raw input to final conclusions
 
-🔗 **[View Repository on GitHub →](#)** *(Replace `#` with your actual repo link)*
+🔗 **[View Repository on GitHub →](https://github.com/laubniika-sys/fifa-world-cup-2022-analysis)** <br/>
 
 ---
+
+<br/>
 
 ## 📈 GitHub Activity
 
